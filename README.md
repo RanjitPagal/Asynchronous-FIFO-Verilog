@@ -1,1 +1,1 @@
-# Asynchronous-FIFO-Verilog
+This project implements an asynchronous FIFO (First-In-First-Out) in Verilog, designed for reliable data transfer between different clock domains. The FIFO supports parameterized data width and depth, uses Gray-coded pointers for clock domain synchronization, and provides full, empty, almost full, and almost empty status signals. It is verified using a Verilog testbench with waveform analysis for functional validation.
